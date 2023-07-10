@@ -78,10 +78,6 @@ If you are interested in how data structures are implemented, check out [Lago](h
 
 Read our [contributing guide](/CONTRIBUTING.md) to learn about how you can contribute, how to propose improvements or if you are interested in translating the content.
 
-### Supporting
-
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
 <a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## License
