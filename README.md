@@ -31,13 +31,7 @@ Unlike typical software engineer job interviews, front end job interviews have l
 - [Front end trivia questions](https://www.frontendinterviewhandbook.com/trivia/) - answers to the h5bp Front-end Developer Interview Questions
 - [Front end questions](https://www.frontendinterviewhandbook.com/coding/javascript-utility-function/) - JavaScript, DOM, algorithms, and more
 - [Front end interview questions by companies](https://www.frontendinterviewhandbook.com/company-interview-questions/)
-
----
-
-<div align="center">
-  <h3>Preparing for front end interviews? <a href="https://www.greatfrontend.com">GreatFrontEnd</a> is offering 25% off its lifetime plan of high quality practice questions and solutions written by ex-FAANG Engineers 💡</h3>
-</div>
-
+  
 ---
 
 ## Looking for Generic Interview Preparation?
