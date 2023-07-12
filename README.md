@@ -35,7 +35,7 @@ Unlike typical software engineer job interviews, front end job interviews have l
 ---
 
 <div align="center">
-  <h3>💡 Preparing for front end interviews? <a href="https://www.greatfrontend.com">GreatFrontEnd</a> is offering 25% off its lifetime plan of high quality practice questions and solutions written by ex-FAANG Engineers 💡</h3>
+  <h3>Preparing for front end interviews? <a href="https://www.greatfrontend.com">GreatFrontEnd</a> is offering 25% off its lifetime plan of high quality practice questions and solutions written by ex-FAANG Engineers 💡</h3>
 </div>
 
 ---
