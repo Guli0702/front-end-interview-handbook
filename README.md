@@ -54,7 +54,6 @@ You might be interested in the [Tech Interview Handbook](https://www.techintervi
 ## Translations
 
 - [English](https://www.frontendinterviewhandbook.com)
-- [Chinese (Simplified) (简体中文)](https://www.frontendinterviewhandbook.com/zh/javascript-questions/)
 - [Japanese (日本語)](https://www.frontendinterviewhandbook.com/jp/javascript-questions/)
 - [Korean (한국어)](https://www.frontendinterviewhandbook.com/kr/javascript-questions/)
 - [Polish (Polski)](https://www.frontendinterviewhandbook.com/pl/javascript-questions/)
