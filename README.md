@@ -59,7 +59,6 @@ You might be interested in the [Tech Interview Handbook](https://www.techintervi
 - [Polish (Polski)](https://www.frontendinterviewhandbook.com/pl/javascript-questions/)
 - [Portuguese (Português)](https://www.frontendinterviewhandbook.com/pr/javascript-questions/)
 - [Russian (Русский)](https://www.frontendinterviewhandbook.com/ru/javascript-questions/)
-- [Tagalog](https://www.frontendinterviewhandbook.com/tl/javascript-questions/)
 
 ## Related
 
